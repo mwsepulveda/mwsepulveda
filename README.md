@@ -12,6 +12,6 @@ My name is Michael Sepulveda, and I am currently enrolled in my last semester of
 
 - **Education:** Columbia University '23 - BA in CS and English
 - **Email:** mwsepulveda@gmail.com
-- **Currently Learning:** JS, React, C++
-- **Currently Playing:** *Hogwarts Legacy*
-- **Currently Reading:** *One Flew Over the Cuckoos Nest*, Ken Kesey
+- **Currently Learning:** JS, React
+- **Currently Playing:** *Hi-Fi Rush, Silent Hill 2*
+- **Currently Reading:** *A Clockwork Orange*, Athony Burgess
