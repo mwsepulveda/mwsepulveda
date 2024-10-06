@@ -14,4 +14,4 @@ My name is Michael Sepulveda, and I am currently enrolled in my last semester of
 - **Email:** mwsepulveda@gmail.com
 - **Currently Learning:** JS, React
 - **Currently Playing:** *Hi-Fi Rush, Silent Hill 2*
-- **Currently Reading:** *A Clockwork Orange*, Athony Burgess
+- **Currently Reading:** *A Clockwork Orange*
